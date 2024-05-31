@@ -67,8 +67,11 @@ body {
   background-color: rgb(241, 241, 245);
 }
 
-h3, 
-p {
+h3 {
+  color: rgb(13, 6, 116);
+}
+
+p{
   color: rgb(13, 6, 116);
 }
 
