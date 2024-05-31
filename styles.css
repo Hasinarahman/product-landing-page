@@ -61,8 +61,8 @@ h1 {
   color: rgb(53, 53, 95);
   font-weight: bold;
   font-size: 2em;
-  margin-right: 50px;
-  margin-top: 0;
+  margin-right: 30px;
+  margin-top: -25px;
 }
 
 body {
@@ -85,13 +85,23 @@ p {
 .new {
   border-style: solid;
   border-color: rgb(74, 83, 138);
+  margin-left: 30px;
 }
 
 .nnew {
   border-style: solid;
   border-color: rgb(74, 83, 138);
   display: flex;
-  margin-left: 55px;
+  margin-left: 85px;
+}
+
+
+.gallery {
+  width: 150px;
+  height: 100px;
+  align-items: center;
+  margin-left: 587px;
+  margin-top: 80px; 
 }
 
 @media only screen and (max-width: 1000px) {
