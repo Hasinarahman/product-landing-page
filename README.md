@@ -11,9 +11,6 @@
 
 my project stand out in html and css.
 
-## Demo 📸
-
-Demo consists of a information about how to by in amazon . Its goal is to provide an info about amazon business for people and how it work. 
 
 
 ## Technologies Used 🛠️
