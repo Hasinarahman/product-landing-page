@@ -7,16 +7,12 @@
 - What type of marketing is Amazon?
 - and how to by from Amazon?
 
-
-
-my project stand out in html and css.
-
-
-
 ## Technologies Used 🛠️
 - HTML
 - CSS
 
+## Link of Deploy the project
+(https://hasinarahman.github.io/product-landing-page/)
 
 ## Installation 💻
 you are not need to install this app it is just for test.
