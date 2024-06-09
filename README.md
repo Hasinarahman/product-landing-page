@@ -7,6 +7,10 @@
 - What type of marketing is Amazon?
 - and how to by from Amazon?
 
+##Demo
+![Capture](https://github.com/Hasinarahman/product-landing-page/assets/168626170/02c1ab83-22dc-4989-9b80-cc498f35dc9a)
+
+
 ## Technologies Used 🛠️
 - HTML
 - CSS
